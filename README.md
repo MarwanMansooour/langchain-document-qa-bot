@@ -46,12 +46,14 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Then Run the app
+Then run the app
 ```bash
 jupyter notebook doc_qa_bot.ipynb
 ```
 File Structure 
+```bash
 langchain-document-qa-bot/
 ├── doc_qa_bot.ipynb       # Main Jupyter Notebook
 ├── requirements.txt       # Dependency list
 └── README.md              # Project overview (this file)
+```
